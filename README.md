@@ -1,4 +1,4 @@
-# Conwway's Geme of Life
+# Conwway's Game of Life
 ## Общая информация
 В репозитории расположена параметризируемая игра «Жизнь» описанная на языке SystemVerilog. 
 
